@@ -1,4 +1,4 @@
-# A to B(itcoin)
+# A to ₿(itcoin)
 Bitcoin Based Logistics
 
 Bitcoin Delivery
