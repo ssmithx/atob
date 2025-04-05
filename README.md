@@ -14,4 +14,8 @@ Bitcoin Ride hail
 
 Bitcoin Transport
 
+Bitcoin Conference Carpooling
+
+Bitcoin Physical Art Delivery
+
 <img src="https://github.com/ssmithx/atob/blob/main/map.png">
