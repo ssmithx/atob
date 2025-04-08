@@ -1,2 +1,9 @@
 https://cornychat.com/atobitcoindevchat
 Wed April 9 16:00 UTC
+Topics:
+Why A to B?
+High level ideas on how to flag rides, how to offer services, contracts.
+Integration into existing apps:  OPA, btc maps, satlantis
+Nostr?
+Credentials?
+Blinding? Game it out.
