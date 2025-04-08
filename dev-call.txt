@@ -7,3 +7,7 @@ Integration into existing apps:  OPA, btc maps, satlantis
 Nostr?
 Credentials?
 Blinding? Game it out.
+
+B-fleet:
+Logos
+Website
