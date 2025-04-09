@@ -14,8 +14,9 @@ warnings (find a nice way of suggesting people won't want to ride)
 Market for rides and deliveries
 (bid/ask dates/date-ranges (time preference priority star rating? 1 star low, 5 star high.  reflected in the bid)
 Blinding? Game it out.
-(how to gets something or someone to B without knowing their routers and destination)
-Liability!
+(how to gets something or someone to B without knowing their routes and destination)
+Liability
+(package and delivery insurance?  damages and arbitrage)
 
 B-fleet:
 Logos
