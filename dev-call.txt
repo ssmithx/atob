@@ -4,7 +4,7 @@ Topics:
 Why A to B?
 High level ideas on how to flag rides, how to offer services, contracts.
 (private relay for a to b.  Avoid congestion.  Make our own rules.)
-(now much room do they have.  smoking/non smoking.  pets?)
+(how much room do they have.  smoking/non smoking.  pets?)
 (identifying pin points)
 Integration into existing apps:  OPA, btc maps, satlantis
 (we provide api/relay info for public integration)
