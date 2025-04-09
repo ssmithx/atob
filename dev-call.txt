@@ -3,11 +3,21 @@ Wed April 9 16:00 UTC
 Topics:
 Why A to B?
 High level ideas on how to flag rides, how to offer services, contracts.
+(private relay for a to b.  Avoid congestion.  Make our own rules.)
+(now much room do they have.  smoking/non smoking.  pets?)
+(identifying pin points)
 Integration into existing apps:  OPA, btc maps, satlantis
-Nostr?
-Credentials?
+(we provide api/relay info for public integration)
+Nostr? (yes the protocol NOT the social network)
+Credentials? (base creds will be nostr npub.  Enhance creds will exist on private relays.  Feedback, ratings,
+warnings (find a nice way of suggesting people won't want to ride)
+Market for rides and deliveries
+(bid/ask dates/date-ranges (time preference priority star rating? 1 star low, 5 star high.  reflected in the bid)
 Blinding? Game it out.
+(how to gets something or someone to B without knowing their routers and destination)
+Liability!
 
 B-fleet:
 Logos
+(flame trick truck driving left to right out of blocks and into the future of connectedness)
 Website
