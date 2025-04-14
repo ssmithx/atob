@@ -10,5 +10,8 @@ create automated test plans to load and test the relay network
 Extra credit
 Create runbooks and open source everything if not already available
 
-A sahih hadith is a hadith that has a connected chain of transmission, each narrator being upright in character, exacting, and reliable in his narration and transmission.
+A sahih hadith is a hadith that has a connected chain of transmission,
+each narrator being upright in character, exacting, and reliable in his
+narration and transmission.
+
 This is the ethos of A to B.
