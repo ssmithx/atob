@@ -1,0 +1,5 @@
+For Vegas and Prague.
+Hide 100 packages of varying sizes and prices.
+Put coordinates in A to B and pay for pickups
+All packages are addressed to the conference
+When the user brings the packages, they get paid.
