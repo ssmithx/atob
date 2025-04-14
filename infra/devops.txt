@@ -1,0 +1,11 @@
+New devops member: Sahih in Texas
+(he'll get on nostr soon)
+Infra:
+maintain builds
+deploy relay network
+monitor traffic and loads
+create a visibility dashboard
+create automated test plans to load and test the relay network
+
+Extra credit
+Create runbooks and open source everything if not already available
