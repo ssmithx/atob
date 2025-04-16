@@ -1,2 +1,38 @@
 https://hivetalk.org/join/atobitcoindevcall
 Wed April 16 16:00 UTC
+
+Package flow:
+Poster - NEW PICKUP REQUEST
+FIELDS
+multi city?
+description
+pickup location (REQUEST GPS FROM BROWSER or pin on map)
+destination location
+picture
+size (dimensions)
+weight
+# of packages
+value class (1+BTC .5-1 .25-.5 etc)
+postage fee + HIDDEN MAX FEE
+inpection toggle
+notes
+
+Delivery Flow:
+Allow notifications (package pickup within x metres)
+App shows package available for pickup
+OMW WITH ETA
+COUNTER-OFFER (free form test)
+Countdown begins
+I'm here! (bonus for speed, point for tardiness)
+Scan package in app (photo if no QR code)
+OMW WITH ETA
+Countdown begins
+I'm here! (bonus for speed, point for tardiness)
+RECEIVER scans QR on DELIVERY PERSON's PHONE OR PACKAGE QR
+If inspection is requested:
+   PLEASE OPEN PACKAGE AND INSPECT CONTENTS
+PLEASE CONFIRM RECEIPT OF YOUR DELIVERY
+Upon confirmation, delivery person is paid.
+
+Stories for web page
+
