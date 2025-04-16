@@ -1,6 +1,12 @@
 https://hivetalk.org/join/atobitcoindevcall
 Wed April 16 16:00 UTC
 
+Social Scoring:
+EXTERNAL Immediate availability of user data like followers, GM score, engagement
+INTERNAL Data will have users: pacakge delivery rates, time scores, etc, complaints, fidelity
+covenant score (points) Point are earned back by good deeds. TIT FOR TAT (no, not the whole world blind)
+"I'll deliver this for free, I need to earn some points back"
+
 Package flow:
 Poster - NEW PICKUP REQUEST
 FIELDS
@@ -13,26 +19,34 @@ size (dimensions)
 weight
 # of packages
 value class (1+BTC .5-1 .25-.5 etc)
-postage fee + HIDDEN MAX FEE
+postage fee + HIDDEN MAX FEE (negotiations over regular nostr?)
 inpection toggle
 notes
 
-Delivery Flow:
-Allow notifications (package pickup within x metres)
+Delivery Flow (simple):
+Setup - Allow notifications (package pickup within x metres)
 App shows package available for pickup
-OMW WITH ETA
+OMW WITH ETA (manually entered) NEEDS UPDATES CLEAR COMMUNICATION IN CASE OF DELAYS UNEXPECTED INCIDENT :D
 COUNTER-OFFER (free form test)
 Countdown begins
-I'm here! (bonus for speed, point for tardiness)
+I'm here! PROMPT FOR GPS COORDINATES (bonus for speed, point for tardiness)
+(this can only notify the sender.  If additional coordination is required, that is on the SENDER)
+Delivery person finds receiver (might take time, sender should communicate):
 Scan package in app (photo if no QR code)
 OMW WITH ETA
 Countdown begins
-I'm here! (bonus for speed, point for tardiness)
+I'm here! (bonus for speed (no gaming!), point for tardiness)
 RECEIVER scans QR on DELIVERY PERSON's PHONE OR PACKAGE QR
 If inspection is requested:
    PLEASE OPEN PACKAGE AND INSPECT CONTENTS
 PLEASE CONFIRM RECEIPT OF YOUR DELIVERY
 Upon confirmation, delivery person is paid.
+
+Delivery Flow (complex)
+baton staffettenlauf passing
+if package is NOT hand to hand, it will recommend printout
+
+Blind Flow 
 
 Stories for web page
 
