@@ -1,7 +1,7 @@
 https://hivetalk.org/join/atobitcoindevcall
 Wed April 16 16:00 UTC
 
-Social Scoring:
+Reputation Scoring:
 EXTERNAL Immediate availability of user data like followers, GM score, engagement
 INTERNAL Data will have users: pacakge delivery rates, time scores, etc, complaints, fidelity
 covenant score (points) Point are earned back by good deeds. TIT FOR TAT (no, not the whole world blind)
@@ -26,8 +26,13 @@ notes
 Delivery Flow (simple):
 Setup - Allow notifications (package pickup within x metres)
 App shows package available for pickup
-OMW WITH ETA (manually entered) NEEDS UPDATES CLEAR COMMUNICATION IN CASE OF DELAYS UNEXPECTED INCIDENT :D
-COUNTER-OFFER (free form test)
+APP MUST BE ABLE TO MASK THE LOCATION FROM NON-CREDENTIALED USERS (REPUTATION SCORE)
+Only when a REPUTABLE DELIVERER RESPONDS TO THE REQUEST CAN THEY SEE THE COORDINATES.
+APP creates signed note with the deliver's npub
+OMW WITH ETA (manually entered after seeing coordinates and instructions)
+NEEDS TO UPDATE WITH CLEAR COMMUNICATION IN CASE OF DELAYS OR UNEXPECTED INCIDENT :D
+or COUNTER-OFFER (free form text) plus amount
+"This looks our of my way but I'll grab it for more" "5000"
 Countdown begins
 I'm here! PROMPT FOR GPS COORDINATES (bonus for speed, point for tardiness)
 (this can only notify the sender.  If additional coordination is required, that is on the SENDER)
