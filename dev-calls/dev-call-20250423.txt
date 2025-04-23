@@ -9,8 +9,34 @@ Go over last weeks notes.  Maybe talk through the flow some more so devs can get
 Absolutely define MVP on this call.  We can have cool stuff all day but we need the basics
 that we can show at vegas
 
-Yena: website?  stickers?  blog?
-I would love a swissgerman blog we can translate.
-I don't know if you want to write? Or get others.  Make a whole culture of hodl wave riding.
-hodl wave riders is the essence of this.  Save your bitcoin.  Earn bitcoin.  Use your biitcoin.
+MVP: minimum viable product
+#1 "post" package - Location, "pretend cost", destination
+#2 view available packages - open map, see packages
+#3 acknowledge package pickup - open app, click "I picked it up"
+#4 Receiver acknowledges delivery.  "pretend payment"
 
+We need: (for dev to vibe code)
+private nostr relay
+app (pwa) that connects to relay
+app can pull map data (open maps?)
+pull public nostr profile (reputation score)
+- maybe quick coding of score, pull follower count/following 
+  count proportion, posts/reply, ZAPS!
+payment simulator?
+Present QR to receiver that links to PWA/acknowledge page
+
+Payment side (shad)
+Fedi mint? Escrow? (plugins?)
+
+
+Yena: website?  stickers?  blog?
+atobitcoin.io hurrayyy!!!!! celebration
+I would love a swissgerman blog we can translate.
+Based in switzerland - semi anonymous
+I don't know if you want to write? Or get others.
+Make a whole culture of hodl wave riding.
+hodl wave riders is the essence of this.
+Save your bitcoin.  Earn bitcoin.  Use your biitcoin.
+
+Bfleet to contribute to a to b.  Dev fund.
+1 million sat bounty for MVP
