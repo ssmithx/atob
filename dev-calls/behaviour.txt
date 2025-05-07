@@ -6,3 +6,10 @@ Receiver scans package, if they don't have a to b, it can open in a browser.
 Prompt "Please open the package and inspect contects" (if desired)
 Prompt "Please acknowledge receipt of goods."
 Fund move to livery agent.
+
+Need to revisit this.
+Shipper can require reputation from the livery agent.  So when an agent says he wants to get the package,
+the shipper can review the reputation of the agent and approve them.
+They could also auto approve over a certain reputational rating.
+Upon approval, the payload is encrypted to the agents npub and sent to them and this contains the precise
+location and any specific instructions.
