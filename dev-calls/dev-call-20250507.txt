@@ -1,5 +1,5 @@
 Moving to jitsi.
-https://meet.jit.si/dev-call-2025-5-7
+https://meet.jit.si/dev-call-20250507
 
 Finalize MVP reqs.  vercel site looks good.
 Reputation page looks great if we can get it working.
