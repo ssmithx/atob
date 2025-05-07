@@ -1,0 +1,12 @@
+Moving to jitsi.
+https://meet.jit.si/dev-call-2025-5-7
+
+Finalize MVP reqs.  vercel site looks good.
+Reputation page looks great if we can get it working.
+Nostr will be the login and query reputation, internal for packaging.
+
+dev JF is looking at the nostr integration into a private relay.
+
+WEBSITE! what do we need for the mvp? lightsail?  Can someone help host it? 
+I can do another bounty for the website work but I'd like the hosting to be community.
+Noderunner NL might like it.
