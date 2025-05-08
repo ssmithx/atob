@@ -10,3 +10,7 @@ dev JF is looking at the nostr integration into a private relay.
 WEBSITE! what do we need for the mvp? lightsail?  Can someone help host it? 
 I can do another bounty for the website work but I'd like the hosting to be community.
 Noderunner NL might like it.
+
+Hosting - citadel node network?  
+VPS services. Get a couple commitments. kyc free startup vps services.
+Getting vps from noderunners
