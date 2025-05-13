@@ -1,1 +1,8 @@
+https://meet.jit.si/dev-call-20250507
 
+That app should be good to go.
+Let's test it on the call!
+
+Webite is up, I need to deploy the app and put wordpress for Yena
+
+Setup treasure hunt.  Running out of time, let's brainstorm some ideas.
