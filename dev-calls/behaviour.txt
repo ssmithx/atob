@@ -1,8 +1,8 @@
 packages
-Sender creates note with the package details, destination, coordinates for pickup, applies livery charge
-Livery Agent responds to note with "OMW" and ETA
-Package is scanned into atob which links the livery agent as recipient of funds
-Receiver scans package, if they don't have a to b, it can open in a browser.
+(post)Sender creates note with the package details, destination, coordinates for pickup, applies livery charge
+(ack)Livery Agent responds to note with "OMW" and ETA
+(picked up)Package is scanned into atob which links the livery agent as recipient of funds
+(delivered)Receiver scans package, if they don't have a to b, it can open in a browser.
 Prompt "Please open the package and inspect contects" (if desired)
 Prompt "Please acknowledge receipt of goods."
 Fund move to livery agent.
