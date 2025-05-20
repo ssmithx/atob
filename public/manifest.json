@@ -1,0 +1,10 @@
+{
+  "name": "A to ₿",
+  "short_name": "A to ₿",
+  "description": "Decentralized package delivery powered by Nostr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": []
+}
