@@ -10,3 +10,4 @@ Create deployable code.
 
 The finance portion might need to be looked at as a stand alone
 Maybe API calls to a node?
+Deploy as a fedi app?
