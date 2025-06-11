@@ -5,6 +5,8 @@ on the honor system in local groups where the receiver pays the invoice.
 This would work for a community job board "mow my lawn"
 
 What are the next steps for a usable service?
+Test with private relay.
+Create deployable code.
 
 The finance portion might need to be looked at as a stand alone
 Maybe API calls to a node?
