@@ -1,1 +1,10 @@
+https://meet.jit.si/dev-call-20250611
+Next steps:
+In it's current state, without payments, it can work
+on the honor system in local groups where the receiver pays the invoice.
+This would work for a community job board "mow my lawn"
 
+What are the next steps for a usable service?
+
+The finance portion might need to be looked at as a stand alone
+Maybe API calls to a node?
