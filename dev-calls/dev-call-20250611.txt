@@ -3,10 +3,12 @@ Next steps:
 In it's current state, without payments, it can work
 on the honor system in local groups where the receiver pays the invoice.
 This would work for a community job board "mow my lawn"
+Dave is interested in this feature
 
 What are the next steps for a usable service?
 Test with private relay.
 Create deployable code.
+Jim will fix bug locally and work on deployment strategy
 
 The finance portion might need to be looked at as a stand alone
 Maybe API calls to a node?
