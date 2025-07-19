@@ -30,6 +30,7 @@ A sponsor stakes an amount of Bitcoin on a courier and gets a % of the jobs.
 Novices can only take low trust and low value deliveries.
 Once a courier has advances to CypherPunk stage and has sponsors or backing,
 they can begin delivering high value, high trust packages.
-After courier level, we have drivers...local and c2c
+This is the A to B PWA.  Decentralized, nostr based reputation.
+After courier levels, we have drivers...local and c2c
 Citadel to citadel.
 Same thing but higher value, higher trust, higher stakes.
